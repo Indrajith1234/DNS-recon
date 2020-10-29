@@ -1,1 +1,1 @@
-# DNS-recon
+# DNSrecon script
